@@ -1,0 +1,15 @@
+C:\Workspece\CodeHomeTasks\EnumAndExceptionTask\Task2\bin\Debug\net6.0\Task2.exe
+C:\Workspece\CodeHomeTasks\EnumAndExceptionTask\Task2\bin\Debug\net6.0\Task2.deps.json
+C:\Workspece\CodeHomeTasks\EnumAndExceptionTask\Task2\bin\Debug\net6.0\Task2.runtimeconfig.json
+C:\Workspece\CodeHomeTasks\EnumAndExceptionTask\Task2\bin\Debug\net6.0\Task2.dll
+C:\Workspece\CodeHomeTasks\EnumAndExceptionTask\Task2\bin\Debug\net6.0\Task2.pdb
+C:\Workspece\CodeHomeTasks\EnumAndExceptionTask\Task2\obj\Debug\net6.0\Task2.csproj.AssemblyReference.cache
+C:\Workspece\CodeHomeTasks\EnumAndExceptionTask\Task2\obj\Debug\net6.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspece\CodeHomeTasks\EnumAndExceptionTask\Task2\obj\Debug\net6.0\Task2.AssemblyInfoInputs.cache
+C:\Workspece\CodeHomeTasks\EnumAndExceptionTask\Task2\obj\Debug\net6.0\Task2.AssemblyInfo.cs
+C:\Workspece\CodeHomeTasks\EnumAndExceptionTask\Task2\obj\Debug\net6.0\Task2.csproj.CoreCompileInputs.cache
+C:\Workspece\CodeHomeTasks\EnumAndExceptionTask\Task2\obj\Debug\net6.0\Task2.dll
+C:\Workspece\CodeHomeTasks\EnumAndExceptionTask\Task2\obj\Debug\net6.0\refint\Task2.dll
+C:\Workspece\CodeHomeTasks\EnumAndExceptionTask\Task2\obj\Debug\net6.0\Task2.pdb
+C:\Workspece\CodeHomeTasks\EnumAndExceptionTask\Task2\obj\Debug\net6.0\Task2.genruntimeconfig.cache
+C:\Workspece\CodeHomeTasks\EnumAndExceptionTask\Task2\obj\Debug\net6.0\ref\Task2.dll
